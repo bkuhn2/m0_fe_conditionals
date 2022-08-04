@@ -35,9 +35,17 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+// It is defining the var bearClothing since that was originally defined as a blank quotation and contingent
+// upon the door choice.
 // 2. What variable has a new value assigned to it after the first if statement executes?
+// bearClothing
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+// scarf
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+// using a series of if/elseif/else statements, these describe the different outcomes depending on
+// whether you assign either 1, 2, or 3 to the var bearChoice
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+// eaten alive by snakes
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-// 7. What is your favorite ending?
+// you shame the bear for having a HAT that's too small and he begins to weep uncontrollably
+// 7. What is your favorite ending? the bear helps me out via secreat passage
